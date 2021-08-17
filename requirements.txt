@@ -23,7 +23,7 @@ entrypoints==0.3
 flask==2.0.1
 #freetype==2.10.4
 icc_rt==2019.0.0
-icu==58.2
+#icu==58.2
 idna==2.10
 importlib-metadata==3.10.0
 importlib_metadata==3.10.0
