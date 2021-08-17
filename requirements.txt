@@ -135,7 +135,7 @@ wincertstore==0.2
 #xz==5.2.5
 yarg==0.1.9
 yfinance==0.1.60
-zeromq==4.3.3
+#zeromq==4.3.3
 zipp==3.4.1
 zlib==1.2.11
 zstd==1.4.9
