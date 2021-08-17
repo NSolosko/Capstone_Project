@@ -116,7 +116,7 @@ sniffio==1.2.0
 terminado==0.9.4
 testpath==0.5.0
 threadpoolctl==2.1.0
-tk==8.6.10
+#tk==8.6.10
 tornado==6.1
 traitlets==5.0.5
 tzdata==2021a
