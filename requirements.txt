@@ -131,7 +131,7 @@ werkzeug==2.0.1
 wheel==0.36.2
 widgetsnbextension==3.5.1
 wincertstore==0.2
-winpty==0.4.3
+#winpty==0.4.3
 xz==5.2.5
 yarg==0.1.9
 yfinance==0.1.60
