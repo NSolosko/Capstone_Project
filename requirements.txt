@@ -58,7 +58,7 @@ lxml==4.6.3
 #m2w64-libwinpthread-git==5.0.0.4634.697f757
 markupsafe==2.0.1
 matplotlib==3.4.2
-matplotlib-base==3.4.2
+#matplotlib-base==3.4.2
 mistune==0.8.4
 mkl==2021.2.0
 mkl-service==2.3.0
